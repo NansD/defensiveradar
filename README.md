@@ -6,7 +6,7 @@ The structure we built looks like this :
 **![](https://lh5.googleusercontent.com/o9ZgcIeiMyhHDjQjz-KOZsirs-LIP-s4n-kV7BzZpwni9pqtFqx7bu5yTZcrzkCJCbRKlP3PD2tyW92BD3bmlIt_vv4SxFw8R-GJyJ0bk8khNSyp6XiBCIMAqf5kg-Kf-4MwTr4k)**
 **![](https://lh4.googleusercontent.com/ry9TTh2XFTeu-Rz6niBi3rXwzQ-pcme_Wj1KbRq6mbf67MJVtszh7Ocuds8bFyBENcUyKkQ-9guPetXLPT2-M5bbhvTQMMU99dXv_tzXCKxd71KMxvYzrJVwA1f0URZegTpHQWTj)**
 
-The `fire()` method simply ask motor2 to run 1 turn. 
+The `fire()` method simply asks motor2 to run 1 turn. 
 
 
 # Contributors
